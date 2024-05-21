@@ -26,20 +26,20 @@ body {
     border: 1px solid steelblue;
 }
 
-.logo img {
+.header__logo img {
     width: 150px;
 }
 
-.menu {
+.main-nav {
+    margin-bottom: 0.5px;
+}
+
+.main-nav__list {
     display: flex;
     list-style: none;
 }
 
-.navbar {
-    margin-bottom: 0.5px;
-}
-
-.item-list {
+.main-nav__link {
     margin: 0 2px;
     padding: 2px;
     font-size: 1.6rem;
