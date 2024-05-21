@@ -1,0 +1,54 @@
+.contenido-proyecto h2 {
+  font-size: 3rem;
+}
+
+.section-two {
+  padding: 2%;
+}
+
+.glosario {
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.glosario .titulo-tema {
+  font-size: 1.8rem;  
+}
+
+.glosario .titulo-tema-descripcion {
+  font-size: 1.6rem;  
+}
+
+.imagen-tema img {
+  max-width: 350px;
+  padding: 20px 0;
+  padding-bottom: 0.5px;
+}
+
+.figcaption {
+  font-size: 1rem;
+  padding-bottom: 10px;
+}
+  
+/*reposicionar el header */
+
+.logo img {
+  width: 150px;
+}
+
+.content-wrapper .texto {
+  width: 80%;
+  font-size: 1.6rem;
+}
+
+.content-wrapper .tittle {
+  font-size: 3rem;
+}
+
+.bg-video {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  padding: 5px 5px 20px;
+}
