@@ -32,6 +32,7 @@ body {
 
 .main-nav {
     margin-bottom: 0.5px;
+    background-color: rgb(49, 51, 49);
 }
 
 .main-nav__list {
